@@ -1,6 +1,4 @@
-# Hi, I'm Arlet Martinez 👋
-
-### IT Support | Cybersecurity | U.S. Marine Corps Veteran
+![Arlet Martinez - IT Support and Cybersecurity](Cybersecurity%20Veteran%20Tech%20Banner.png)
 
 ## About Me
 
