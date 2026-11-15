@@ -8,13 +8,32 @@ I am passionate about technology, cybersecurity, and continuous learning. My goa
 
 ## Technical Skills
 
+![Windows](https://img.shields.io/badge/Windows-173B57?style=for-the-badge)
+![IT Support](https://img.shields.io/badge/IT_Support-173B57?style=for-the-badge)
+![BMC Remedy](https://img.shields.io/badge/BMC_Remedy-173B57?style=for-the-badge)
+![ITSM](https://img.shields.io/badge/ITSM-173B57?style=for-the-badge)
+![IAM Operations](https://img.shields.io/badge/IAM_Operations-173B57?style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-173B57?style=for-the-badge)
+
+### Professional Experience
+
 | Area | Skills |
 |---|---|
-| IT Support | Troubleshooting, software installation, Remedy ticketing |
-| Networking | TCP/IP, DNS, Wireshark |
-| Security | Access coordination, security procedures |
-| Documentation | Technical reporting, equipment accountability |
-| Programming | C# fundamentals |
+| IT Support | Windows workstation support, hardware and software troubleshooting, peripheral support |
+| IT Service Management | BMC Remedy, ticket triage, prioritization, incident resolution |
+| Identity & Access Management | Access request coordination, user onboarding and offboarding, permission transfer requests |
+| Security Compliance | Security clearance, certification and training verification |
+| Microsoft Applications | SharePoint, Teams, Word, Excel, PowerPoint, Outlook |
+| Documentation | Technical reporting, incident documentation, equipment accountability |
+
+### Hands-on Personal Experience
+
+- macOS system configuration and troubleshooting
+- Software installation and maintenance
+- VPN configuration and Wi-Fi troubleshooting
+- Basic Terminal and Activity Monitor usage
+- Local user account management
+
 
 ## Projects
 
@@ -31,9 +50,13 @@ Expected Graduation: December 2028
 
 ## Currently Learning
 
-- Computer Networking
 - Cybersecurity Fundamentals
+- Computer Networking (TCP/IP, DNS, DHCP)
+- Network Traffic Analysis with Wireshark
 - Identity and Access Management (IAM)
+- Active Directory and Microsoft Entra ID (Planned Labs)
+- Microsoft 365 Administration (Planned Labs)
+
 
 ## Professional Background
 
